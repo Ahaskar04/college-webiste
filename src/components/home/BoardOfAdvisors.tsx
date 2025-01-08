@@ -25,7 +25,7 @@ const advisors = [
     image: amitabh,
   },
   {
-    name: 'Dr. SN Jha',
+    name: 'Dr. S.N. Jha',
     position: 'Chief Justice, High Court of Jammu & Kashmir.', 
     expertise: 'Held esteemed positions as Chief Justice of High Court of Rajasthan and Chairman of Human Right Commission, Bihar.',
     image: snjhaImage,

@@ -1,7 +1,7 @@
 import React from 'react';
 import amartyaSenImage from '../../Images/Amartya_Sen_2017.jpg';
 import janardanJhaImage from '../../Images/Dr.JanardanJha.png';
-import snjhaImage from '../../Images/SN_Jha.jpg';
+import snjhaImage from '../../Images/SN_JHA.jpg';
 import amitabh from '../../Images/Amitabh.webp';
 
 
